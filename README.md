@@ -12,7 +12,7 @@
 
 # Design
 
- <li><a href="https://www.figma.com/design/FYbdpmNZWa2WlkghhSUHD8/Practice-html-css-tn?node-id=0-463&t=LGs3UNyQw4Ulas8v-0"> src </a></li>
+ <li><a href=""> none </a></li>
 
 # TECHNICAL STACKS:
 
