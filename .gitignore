@@ -1,0 +1,28 @@
+# Bỏ qua thư mục node_modules (chứa thư viện npm)
+node_modules/
+
+# Bỏ qua tệp môi trường (chứa biến môi trường, API key)
+.env
+
+# Bỏ qua thư mục build và output (nếu có)
+dist/
+build/
+
+# Bỏ qua tệp log và cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Bỏ qua các tệp tạm thời của hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ qua các tệp test coverage (nếu dùng Jest hoặc Istanbul)
+coverage/
+
+# Bỏ qua thư mục IDE/Editor (VS Code, JetBrains, ...)
+.vscode/
+.idea/
+
+# Bỏ qua các tệp compiled (JS, TS)
+*.tsbuildinfo
